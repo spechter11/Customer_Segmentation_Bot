@@ -1,9 +1,6 @@
 # CustomerSegmentationBot
 Automated customer segmentation tailored for clothing retail using machine learning.
 
-# CustomerSegmentationBot
-Automated customer segmentation tailored for clothing retail using machine learning.
-
 ## Description
 
 This bot is designed to automate the process of segmenting customers in the clothing retail industry. Using machine learning algorithms and a synthetic dataset, it clusters customers based on various features like age, location, and purchase history.
